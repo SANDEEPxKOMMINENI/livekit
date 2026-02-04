@@ -61,7 +61,7 @@ You are interacting with the user via voice, and must apply the following rules 
                 mcp.MCPServerHTTP(
                     url="https://api.firecrawl.dev/mcp",
                     headers={
-                        "Authorization": "Bearer fc-3eb3c98340604aba88d2dd683ca73d37",
+                        "Authorization": "Bearer 'firecrawl_api here'",
                     },
                 ),
             ],
